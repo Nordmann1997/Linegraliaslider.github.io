@@ -36,7 +36,7 @@ html,body{
   height: 100%;
   width: 8%;
   /* filter: blur(5px); */
-  background: url("med1.jpeg") no-repeat;
+  background: url("med.jpeg") no-repeat;
   background-size: cover;
   /* background: url("images/car.png") no-repeat; */
 }
